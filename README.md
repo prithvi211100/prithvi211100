@@ -29,7 +29,6 @@
 - 🎸 Electric guitar
 - ✈️ Travelling
 
-![Snake animation](https://github.com/prithvi211100/prithvi211100/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact Me
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/prithvika-babu-51040117b/)
