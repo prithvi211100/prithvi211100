@@ -5,8 +5,6 @@
 - 💡 Specialized in Deep learning Libraries in Python.
 - 🎓 Holding two minor specializations in Artificial Intelligence.
 
-
-## AI Quote
 > "The science of today is the technology of tomorrow." – Edward Teller
 
 ## Skills and Technologies
