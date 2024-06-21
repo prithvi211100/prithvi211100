@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-## About Me
-- 👩‍💻 An AI enthusiast with a keen interest in developing innovative solutions to complex problems.
-- 💡 Specialized in Deep learning Libraries in Python.
+## I am an AI enthusiast with a keen interest in developing innovative solutions to complex problems.
+
+- 👩‍💻 Passionate about different AI and data models.
+- 💡 Specialized in Deep learning Libraries and Python.
 - 🎓 Holding two minor specializations in Artificial Intelligence.
 
 > "The science of today is the technology of tomorrow." – Edward Teller
