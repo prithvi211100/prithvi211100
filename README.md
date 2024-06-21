@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+## About Me
+- 👩‍💻 An AI enthusiast with a keen interest in developing innovative solutions to complex problems.
+- 💡 Specialized in Deep learning Libraries in Python.
+- 🎓 Holding two minor specializations in Artificial Intelligence.
+
+
+## AI Quote
+> "The science of today is the technology of tomorrow." – Edward Teller
+
+## Skills and Technologies
+Here are some of the technologies and libraries I work with:
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenAI Gym](https://img.shields.io/badge/OpenAI_Gym-%2333A6B8.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+## Contact Me
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/prithvika-babu-51040117b/)
+- 📧 Email me at prithvika2111@gmail.com
 <!--
 **prithvi211100/prithvi211100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
