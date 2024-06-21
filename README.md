@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am an AI enthusiast with a keen interest in developing innovative solutions to complex problems.
+<h2> 🚀 &nbsp;About Me</h2>
 
 - 👩‍💻 Passionate about different AI and data models.
 - 💡 Specialized in Deep learning Libraries and Python.
@@ -17,6 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="php" width="45" height="45"/>
 </p>
 
 
