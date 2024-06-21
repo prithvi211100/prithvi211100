@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
-<h2> 🚀 &nbsp;About Me</h2>
+<h2> 👩‍💻 &nbsp;About Me</h2>
 
-- 👩‍💻 Passionate about different AI and data models.
+- 😃  Passionate about different AI and data models.
 - 💡 Specialized in Deep learning Libraries and Python.
 - 🎓 Holding two minor specializations in Artificial Intelligence.
 
