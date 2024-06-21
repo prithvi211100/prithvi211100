@@ -20,6 +20,10 @@ Here are some of the technologies and libraries I work with:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+## Hobbies and Personal Interests
+- 🎨 Painting and sketching
+- 🎸 Electric guitar
+- ✈️ Travelling
 
 ## Contact Me
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/prithvika-babu-51040117b/)
