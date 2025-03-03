@@ -24,21 +24,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="php" width="45" height="45"/>
 </p>
 
-## I'm currently learning
-- <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/powerbi-client.svg" alt="powerbi-client" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="php" width="45" height="45"/>
+## 🌱 I'm currently learning
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="45" height="45"/>
 </p>
 
-
-## Hobbies and Personal Interests
+## 💃 Hobbies and Personal Interests
 - ✈️ Travelling
 - 📊 Researching
 - 🎨 Painting and sketching
 
 
-## Contact Me
+## 📞 Contact Me
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/prithvika-babu-51040117b/)
 - 📧 Email me at prithvika2111@gmail.com
 
