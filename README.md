@@ -5,6 +5,7 @@
 - 😃  Passionate about different AI and data models.
 - 💡 Specialized in Deep learning Libraries and Python.
 - 🎓 Holding two minor specializations in Artificial Intelligence.
+- 💻 Experienced in data science, analytics, and engineering.
 
 > "The science of today is the technology of tomorrow." – Edward Teller
 
@@ -23,11 +24,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="php" width="45" height="45"/>
 </p>
 
+## I'm currently learning
+- <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/powerbi-client.svg" alt="powerbi-client" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="php" width="45" height="45"/>
+</p>
+
 
 ## Hobbies and Personal Interests
-- 🎨 Painting and sketching
-- 🎸 Electric guitar
 - ✈️ Travelling
+- 📊 Researching
+- 🎨 Painting and sketching
 
 
 ## Contact Me
